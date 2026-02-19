@@ -1,0 +1,5 @@
+config==0.5.1
+matplotlib==3.8.4
+numpy==1.24.4
+Pillow==12.1.1
+torch==2.9.0+cu130

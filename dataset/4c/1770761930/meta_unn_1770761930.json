@@ -1,0 +1,28 @@
+{
+  "source": "unfolded_best",
+  "checkpoint": "c:\\Users\\absh58838\\OneDrive - Hamad bin Khalifa University\\Documents\\hbku\\reform\\checkpoints\\unn\\best.pt",
+  "K_steps": 8,
+  "max_shift_hr": 40.0,
+  "lr_shape_hw": [
+    80,
+    62
+  ],
+  "hr_shape_hw": [
+    160,
+    124
+  ],
+  "predicted_translations_hr": [
+    [
+      0.7389074563980103,
+      -0.4217955470085144
+    ],
+    [
+      -0.26927125453948975,
+      0.13840188086032867
+    ],
+    [
+      0.17910629510879517,
+      -0.3140246570110321
+    ]
+  ]
+}
